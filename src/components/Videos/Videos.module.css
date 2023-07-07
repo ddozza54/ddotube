@@ -1,5 +1,7 @@
 .videosGrid {
     width: 100%;
     height: 200vh;
-    background-color: rgb(71, 192, 192);
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 15px;
 }

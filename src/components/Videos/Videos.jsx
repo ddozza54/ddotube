@@ -14,7 +14,7 @@ export default function Videos() {
                         videoId={i.id.videoId}
                         title={i.snippet.title}
                         description={i.snippet.description}
-                        thumnail={i.snippet.thumbnails.default.url}
+                        thumnail={i.snippet.thumbnails.medium.url}
                     />)
                 })}
         </div>
