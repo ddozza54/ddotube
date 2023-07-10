@@ -10,7 +10,9 @@ export default function Header() {
     return (
         <div className={styles.headerDiv}>
             <Link to='/'>
-                <SiYoutube />
+                <div className={styles.homeIBtn}>
+                    <SiYoutube />
+                </div>
             </Link>
 
             <Searchbar />

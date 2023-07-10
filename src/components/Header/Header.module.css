@@ -1,9 +1,26 @@
 .headerDiv {
+    padding-top: 1rem;
     width: 100%;
-    height: 4rem;
-    background-color: brown;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    height: 3rem;
+    background-color: var(--color-lt-ac);
+    display: grid;
+    grid-template-columns: 1fr 80% 1fr;
     position: fixed;
+    box-shadow: 5px 5px 23px 3px rgba(0, 0, 0, 0.31);
+    -webkit-box-shadow: 5px 5px 23px 3px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 5px 5px 23px 3px rgba(0, 0, 0, 0.25);
+}
+
+.homeIBtn {
+    font-size: 35px;
+    text-align: center;
+    padding-bottom: 5px;
+    color: var(--color-dk-ac);
+
+}
+
+.homeIBtn:hover {
+    cursor: pointer;
+    color: var(--color-lt-text-dk);
+
 }

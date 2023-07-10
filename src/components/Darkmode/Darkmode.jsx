@@ -4,9 +4,9 @@ import { BiSolidSun, BiSolidMoon } from 'react-icons/bi'
 
 export default function Mode() {
     return (
-        <div>
+        <div className={styles.modeIcon}>
             <BiSolidSun />
-            <BiSolidMoon />
+            {/* <BiSolidMoon /> */}
         </div>
     );
 }

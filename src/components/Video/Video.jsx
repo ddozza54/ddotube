@@ -11,7 +11,7 @@ export default function Video({ videoId, channel, title, description, date,
             <Link to={`/video/${videoId}`} >
                 <Thumnail thumnail={thumnail} />
             </Link>
-            <VideoDetail title={title} channel={channel} date={date} />
+            <VideoDetail videoId={videoId} title={title} channel={channel} date={date} />
         </div>
     );
 }
