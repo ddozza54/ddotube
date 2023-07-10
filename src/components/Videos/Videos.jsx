@@ -13,7 +13,9 @@ export default function Videos() {
                     return (<Video
                         videoId={i.id.videoId}
                         title={i.snippet.title}
+                        channel={i.snippet.channelTitle}
                         description={i.snippet.description}
+                        date={i.snippet.publishedAt}
                         thumnail={i.snippet.thumbnails.medium.url}
                     />)
                 })}

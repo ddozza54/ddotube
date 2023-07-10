@@ -1,6 +1,9 @@
+.thumnailDiv {
+    overflow: hidden;
+    border-radius: 8px;
+}
 
 
-img {
+.thumnailImg {
     object-fit: cover;
-    border-radius: 15px;
 }

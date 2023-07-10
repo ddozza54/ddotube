@@ -1,0 +1,13 @@
+.detailBox {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.channel {
+    margin: 5px 0;
+    color: grey;
+}
