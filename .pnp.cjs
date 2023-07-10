@@ -31,6 +31,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/jest-dom", "npm:5.16.5"],\
             ["@testing-library/react", "virtual:ff0463a09cb928294548ea838f59d8e5fdd7010b03d56eef53b6e3c57d05228788ce709b02bfb8b05c4e05e95e4d004d020c1489cb10a6cb0ace61651b529849#npm:13.4.0"],\
             ["@testing-library/user-event", "virtual:ff0463a09cb928294548ea838f59d8e5fdd7010b03d56eef53b6e3c57d05228788ce709b02bfb8b05c4e05e95e4d004d020c1489cb10a6cb0ace61651b529849#npm:13.5.0"],\
+            ["dotenv", "npm:16.3.1"],\
+            ["env-cmd", "npm:10.1.0"],\
             ["eslint", "npm:8.44.0"],\
             ["eslint-config-react-app", "virtual:ff0463a09cb928294548ea838f59d8e5fdd7010b03d56eef53b6e3c57d05228788ce709b02bfb8b05c4e05e95e4d004d020c1489cb10a6cb0ace61651b529849#npm:7.0.1"],\
             ["react", "npm:18.2.0"],\
@@ -8034,6 +8036,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["dotenv", "npm:10.0.0"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:16.3.1", {\
+          "packageLocation": "./.yarn/cache/dotenv-npm-16.3.1-e6d380a398-15d75e7279.zip/node_modules/dotenv/",\
+          "packageDependencies": [\
+            ["dotenv", "npm:16.3.1"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["dotenv-expand", [\
@@ -8167,6 +8176,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/entities-npm-2.2.0-0fc8d5b2f7-19010dacaf.zip/node_modules/entities/",\
           "packageDependencies": [\
             ["entities", "npm:2.2.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["env-cmd", [\
+        ["npm:10.1.0", {\
+          "packageLocation": "./.yarn/cache/env-cmd-npm-10.1.0-85470635d6-efef550742.zip/node_modules/env-cmd/",\
+          "packageDependencies": [\
+            ["env-cmd", "npm:10.1.0"],\
+            ["commander", "npm:4.1.1"],\
+            ["cross-spawn", "npm:7.0.3"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -17996,6 +18016,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@testing-library/jest-dom", "npm:5.16.5"],\
             ["@testing-library/react", "virtual:ff0463a09cb928294548ea838f59d8e5fdd7010b03d56eef53b6e3c57d05228788ce709b02bfb8b05c4e05e95e4d004d020c1489cb10a6cb0ace61651b529849#npm:13.4.0"],\
             ["@testing-library/user-event", "virtual:ff0463a09cb928294548ea838f59d8e5fdd7010b03d56eef53b6e3c57d05228788ce709b02bfb8b05c4e05e95e4d004d020c1489cb10a6cb0ace61651b529849#npm:13.5.0"],\
+            ["dotenv", "npm:16.3.1"],\
+            ["env-cmd", "npm:10.1.0"],\
             ["eslint", "npm:8.44.0"],\
             ["eslint-config-react-app", "virtual:ff0463a09cb928294548ea838f59d8e5fdd7010b03d56eef53b6e3c57d05228788ce709b02bfb8b05c4e05e95e4d004d020c1489cb10a6cb0ace61651b529849#npm:7.0.1"],\
             ["react", "npm:18.2.0"],\
