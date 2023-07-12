@@ -1,11 +1,24 @@
 import React from 'react';
 import styles from './Videos.module.css'
 import Video from '../Video/Video';
-import useVideos from '../../hooks/use-videos';
+import { useQuery } from '@tanstack/react-query'
+
+const key = process.env.REACT_APP_YOUTUBE;
 
 export default function Videos() {
-    //필요한 정보 : 비디오 id, 제목, 시간, 올린채널, 썸네일src, (채널 썸네일), 조회수, 
-    const [isLoading, videos, error] = useVideos('');
+    //searchKey 가져오기
+    const getVideos = () => {
+        // const basicUrl = `https://youtube.googleapis.com/youtube/v3/search?part=snippet&`
+        // const searchUrl = `${basicUrl}maxResults=30&${searchKey ? 'q=' + { searchKey } : ""}&regionCode=US&key=${key}`
+
+        console.log("fetching...")
+        return fetch('data/search.json')
+            .then(res => res.json())
+
+    }
+
+    const { isLoading, error, data: videos } = useQuery(["vidoes"], async () => { getVideos() });
+
     return (
         <div className={styles.videosGrid}>
             {isLoading ? <span>Loading...</span> :
