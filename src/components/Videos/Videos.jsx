@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import styles from './Videos.module.css'
 import Video from '../Video/Video';
 import useVideos from '../../hooks/use-videos';

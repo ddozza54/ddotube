@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 
 const key = process.env.REACT_APP_YOUTUBE;
-console.log('key', key)
 
 export default function useVideos({ searchKey }) {
     //필요한 정보 : 비디오 id, 제목, 시간, 올린채널, 썸네일src, (채널 썸네일), 조회수, 
