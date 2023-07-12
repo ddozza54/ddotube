@@ -7,22 +7,17 @@ const key = process.env.REACT_APP_YOUTUBE;
 
 export default function Videos() {
     //searchKey 가져오기
-    const getVideos = () => {
-        // const basicUrl = `https://youtube.googleapis.com/youtube/v3/search?part=snippet&`
-        // const searchUrl = `${basicUrl}maxResults=30&${searchKey ? 'q=' + { searchKey } : ""}&regionCode=US&key=${key}`
+    // const basicUrl = `https://youtube.googleapis.com/youtube/v3/search?part=snippet&`
+    // const searchUrl = `${basicUrl}maxResults=30&${searchKey ? 'q=' + { searchKey } : ""}&regionCode=US&key=${key}`
 
-        console.log("fetching...")
+    const { isLoading, error, data: videos } = useQuery(["vidoes"], async () => {
         return fetch('data/search.json')
             .then(res => res.json())
-
-    }
-
-    const { isLoading, error, data: videos } = useQuery(["vidoes"], async () => { getVideos() });
-
+    });
     return (
         <div className={styles.videosGrid}>
             {isLoading ? <span>Loading...</span> :
-                videos && videos.map((i, ind) => {
+                videos && videos.items.map((i, ind) => {
                     return (<Video
                         key={ind}
                         videoId={i.id.videoId}
