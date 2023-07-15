@@ -1,9 +1,0 @@
-.thumnailDiv {
-    overflow: hidden;
-    border-radius: 8px;
-}
-
-
-.thumnailImg {
-    object-fit: cover;
-}

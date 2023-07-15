@@ -1,4 +1,3 @@
-import './App.css';
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import {
   QueryClient,
@@ -10,7 +9,7 @@ import NotFound from './pages/NotFound';
 import Root from './pages/Root';
 import Home from './pages/Home';
 import VideoPlayer from './pages/VideoPlayer';
-import Search from './pages/Search';
+import Videos from './components/Videos';
 
 const router = createBrowserRouter([
   {
@@ -20,7 +19,7 @@ const router = createBrowserRouter([
     children: [
       { index: true, element: <Home /> },
       { path: `videos`, element: <Home /> },
-      { path: `videos/:keyword`, element: <Search /> },
+      { path: `videos/:keyword`, element: <Videos /> },
       { path: `video/watch/:id`, element: <VideoPlayer /> },
       // { path: `/video/:id([0-9a-fA_Z-_]{11})`, element: <videos /> }
     ]

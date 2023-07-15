@@ -1,19 +1,23 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import styles from './Videos.module.css'
-import Video from '../Video/Video';
+import Video from './Video';
 import { useQuery } from '@tanstack/react-query'
-
+import { useParams } from 'react-router-dom';
 const key = process.env.REACT_APP_YOUTUBE;
 
 export default function Videos() {
-    //searchKey 가져오기
-    // const basicUrl = `https://youtube.googleapis.com/youtube/v3/search?part=snippet&`
-    // const searchUrl = `${basicUrl}maxResults=30&${searchKey ? 'q=' + { searchKey } : ""}&regionCode=US&key=${key}`
+    const { keyword } = useParams();
+    const basicUrl = `https://youtube.googleapis.com/youtube/v3/search?part=snippet&`
+    const searchUrl = `${basicUrl}maxResults=30&${keyword ? 'q=' + { keyword } : ""}&regionCode=US&key=${key}`
+
 
     const { isLoading, error, data: videos } = useQuery(["vidoes"], async () => {
-        return fetch('data/search.json')
+        return fetch(searchUrl)
             .then(res => res.json())
     });
+
+
+
     return (
         <div className={styles.videosGrid}>
             {isLoading ? <span>Loading...</span> :
