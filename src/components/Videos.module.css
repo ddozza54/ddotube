@@ -1,8 +1,0 @@
-.videosGrid {
-    width: 100%;
-    height: 200vh;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    grid-gap: 10px;
-    padding-top: 5rem;
-}
