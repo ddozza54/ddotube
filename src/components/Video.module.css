@@ -1,9 +1,0 @@
-.video {
-    /* width: 250px; */
-    min-width: 150px;
-    max-width: 300px;
-    margin: 5px;
-    padding: 5px;
-    display: flex;
-    flex-direction: column;
-}

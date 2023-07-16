@@ -12,18 +12,18 @@ export default function Videos() {
         const basicUrl = `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&regionCode=KR&`
         const searchUrl = `${basicUrl}q=${keyword ? keyword : ""}&key=${key}`
 
-        return fetch(searchUrl)
+        return fetch('/data/search.json')
             .then(res => res.json())
     });
 
 
-
+    // /repeat(auto-fill, minmax(280px, 1fr))
     return (
-        <div className="">
+        <div className="grid grid-cols-5">
+            {error && <p>Something is wrong</p>}
             {isLoading ? <span>Loading...</span> :
                 videos && videos.items.map((i, ind) => {
                     return (<Video
-                        className="w-full grid grid-cols-repeat(5, minmax(300px, 1fr))"
                         key={ind}
                         videoId={i.id.videoId}
                         title={i.snippet.title}

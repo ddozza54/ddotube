@@ -1,5 +1,4 @@
 import React from 'react';
-import styles from './Video.module.css'
 import { Link } from 'react-router-dom';
 import Thumnail from './Thumnail';
 import VideoDetail from './VideoDetail';
@@ -7,7 +6,7 @@ import VideoDetail from './VideoDetail';
 export default function Video({ videoId, channel, title, description, date,
     thumnail }) {
     return (
-        <div className={styles.video}>
+        <div className="flex flex-col justify-center items-center">
             <Link to={`/video/${videoId}`} >
                 <Thumnail thumnail={thumnail} />
             </Link>

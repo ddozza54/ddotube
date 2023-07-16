@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "vGzR_9kYZJzbgatT-88o6uNKP-M",
+    "etag": "ttwYprlftMoNHRYuOhNNpm9bDPU",
     "nextPageToken": "CB4QAA",
     "regionCode": "KR",
     "pageInfo": {
@@ -10,954 +10,1010 @@
     "items": [
         {
             "kind": "youtube#searchResult",
-            "etag": "YdkuLrtKNM6vnYmAVROndDtc4gU",
+            "etag": "FoBQNKt3JkE961zxJCGGfQSoqSM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "HHFWlZnL5gc"
+                "videoId": "1QYBiNRu1ok"
             },
             "snippet": {
-                "publishedAt": "2023-07-09T09:38:43Z",
-                "channelId": "UCDFm-w2mWNAPy6sqAPcKnkQ",
-                "title": "Sunday vibes 🍀 Calm Your Mind ~ Lofi hip hop mix - Lofi music for sleep/study/relax/aesthetic",
-                "description": "Sunday vibes Calm Your Mind ~ Lofi hip hop mix - Lofi music for sleep/study/relax/aesthetic ...",
+                "publishedAt": "2023-07-15T14:59:59Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "정국 (Jung Kook) &#39;Seven (feat. Latto)&#39; Official Performance Video",
+                "description": "정국 (Jung Kook) 'Seven (feat. Latto)' Official Performance Video 'Seven (feat. Latto)' Release Listen to 'Seven': ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/HHFWlZnL5gc/default_live.jpg",
+                        "url": "https://i.ytimg.com/vi/1QYBiNRu1ok/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/HHFWlZnL5gc/mqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/1QYBiNRu1ok/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/HHFWlZnL5gc/hqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/1QYBiNRu1ok/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "RELAXATION (LoFi & CHILL)",
-                "liveBroadcastContent": "live",
-                "publishTime": "2023-07-09T09:38:43Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "UQtcqhOKwtDtGibmFMYMnMJiTck",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "jfKfPfyJRdk"
-            },
-            "snippet": {
-                "publishedAt": "2022-07-12T12:12:29Z",
-                "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
-                "title": "lofi hip hop radio 📚 - beats to relax/study to",
-                "description": "Listen on Spotify, Apple music and more → https://fanlink.to/lofigirl-music | Lofi Girl on all social media ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/jfKfPfyJRdk/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/jfKfPfyJRdk/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/jfKfPfyJRdk/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lofi Girl",
-                "liveBroadcastContent": "live",
-                "publishTime": "2022-07-12T12:12:29Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "DmGJ411shJVVhWFjuLsbDoDv4-A",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "rUxyKA_-grg"
-            },
-            "snippet": {
-                "publishedAt": "2022-07-13T16:04:34Z",
-                "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
-                "title": "lofi hip hop radio 💤 - beats to sleep/chill to",
-                "description": "Listen on Spotify, Apple music and more → https://fanlink.to/lofigirl-music | Lofi Girl on all social media ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/rUxyKA_-grg/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/rUxyKA_-grg/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/rUxyKA_-grg/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lofi Girl",
-                "liveBroadcastContent": "live",
-                "publishTime": "2022-07-13T16:04:34Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "xYYsyA81x0rVITJ40w2fLkAD21c",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "4xDzrJKXOOY"
-            },
-            "snippet": {
-                "publishedAt": "2023-07-02T21:17:31Z",
-                "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
-                "title": "synthwave radio 🌌 - beats to chill/game to",
-                "description": "Listen on Spotify, Apple music and more → https://fanlink.to/ChillSynthwave Subscribe to this channel for more synthwave ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/4xDzrJKXOOY/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/4xDzrJKXOOY/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/4xDzrJKXOOY/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Lofi Girl",
-                "liveBroadcastContent": "live",
-                "publishTime": "2023-07-02T21:17:31Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "tLBhnQwhQBSsUcXoYSZxLzEecEU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "kyqpSycLASY"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-09T10:00:41Z",
-                "channelId": "UCkKT4qf-TcPFOmpqhTawrGA",
-                "title": "Chill Summer Lofi [chill lo-fi hip hop beats]",
-                "description": "A chill selection of instrumental lofi beats for the summer season. 🏝️ Subscribe: http://youtube.com/@settlefm Listen on ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/kyqpSycLASY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/kyqpSycLASY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/kyqpSycLASY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Settle",
+                "channelTitle": "BANGTANTV",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-09T10:00:41Z"
+                "publishTime": "2023-07-15T14:59:59Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "OwDEpZwS_Rfhg2X13FQicqeEew4",
+            "etag": "jlFgrJGYOGfRnjhsioKunYoF26g",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "cIZhlFIyJ_Y"
+                "videoId": "QU9c0053UAU"
             },
             "snippet": {
-                "publishedAt": "2023-01-25T09:00:16Z",
-                "channelId": "UCAJWS2uGiiWWl9BOpKfzn9g",
-                "title": "Night lofi playlist • lofi music | chill beats to relax/study to",
-                "description": "Lofi Hip Hop for study / chill music   Lofi/Chill Beats © Copyright: Music from: Purrple Cat - Breathtaking ...",
+                "publishedAt": "2023-07-14T04:00:00Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "정국 (Jung Kook) &#39;Seven (feat. Latto)&#39; Official MV",
+                "description": "정국 (Jung Kook) 'Seven (feat. Latto)' Official MV 'Seven (feat. Latto)' Release Listen to 'Seven': https://ingrv.es/Seven Credits: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/cIZhlFIyJ_Y/default.jpg",
+                        "url": "https://i.ytimg.com/vi/QU9c0053UAU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/cIZhlFIyJ_Y/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/QU9c0053UAU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/cIZhlFIyJ_Y/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/QU9c0053UAU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "HITO",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-01-25T09:00:16Z"
+                "publishTime": "2023-07-14T04:00:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "HDsZfWylMW6dwtdd-5ppiXfjbtE",
+            "etag": "0HjzvPRNy-ca1LkCykgdfkYAqWk",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "gAjVmfQcffY"
+                "videoId": "gdZLi9oWNZg"
             },
             "snippet": {
-                "publishedAt": "2023-03-06T13:00:12Z",
-                "channelId": "UCGv9D6jI_5qb12RzoEU4aEA",
-                "title": "Calm Lofi Music - Smoke &amp; Chill ~ Deep Focus, Relaxing Music",
-                "description": "Dreamhop Music: https://spoti.fi/3w5bI0S | Stream it: https://dreamhop.fanlink.to/playlist RELATED VIDEOS - Beats to drive ...",
+                "publishedAt": "2020-08-21T03:58:10Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;Dynamite&#39; Official MV",
+                "description": "BTS (방탄소년단) 'Dynamite' Official MV Credits: Director: Yong Seok Choi (Lumpens) Assistant Director: Jihye Yoon (Lumpens) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/gAjVmfQcffY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/gAjVmfQcffY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/gAjVmfQcffY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Chilli Music",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-03-06T13:00:12Z"
+                "publishTime": "2020-08-21T03:58:10Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "LXcGWbe3W8VJo_TwBzuWSthMkak",
+            "etag": "vxhfXslF5V2iSFDXZvnxt0MzmgY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "UzC6aK6y-7A"
+                "videoId": "owjVpYCmwcg"
             },
             "snippet": {
-                "publishedAt": "2023-07-07T19:11:12Z",
-                "channelId": "UCcwGG-fHmi54IYc9QpfrjKw",
-                "title": "LoFi CHILLOUT // Mixset // LoFi // 2023 // Paul Hossow",
-                "description": "hossow #mixset #lofi #chillout Etwas ruhiges und entspanntes zum chillen für die warmen Tage - ich komme wieder keine Frage ...",
+                "publishedAt": "2023-06-13T09:13:02Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "BTS (방탄소년단) &#39;Take Two&#39; Live Clip #2023BTSFESTA",
+                "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/UzC6aK6y-7A/default.jpg",
+                        "url": "https://i.ytimg.com/vi/owjVpYCmwcg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/UzC6aK6y-7A/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/owjVpYCmwcg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/UzC6aK6y-7A/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/owjVpYCmwcg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Paul Hossow",
+                "channelTitle": "BANGTANTV",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-07-07T19:11:12Z"
+                "publishTime": "2023-06-13T09:13:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "2lrEPCdNfcH29XjgKjEsOquKneQ",
+            "etag": "laSUXIZFjPorpOqzg8V4wFGkkzA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "CLeZyIID9Bo"
+                "videoId": "XsX3ATc3FbA"
             },
             "snippet": {
-                "publishedAt": "2022-08-12T11:30:07Z",
-                "channelId": "UCkKT4qf-TcPFOmpqhTawrGA",
-                "title": "Chill Lofi Mix [chill lo-fi hip hop beats]",
-                "description": "YouTube Playlists: http://listen.settle.fm/youtube Listen on Spotify, Apple Music & more: https://listen.settle.fm/playlists Tracklist ...",
+                "publishedAt": "2019-04-12T09:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)&#39; Official MV",
+                "description": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)' Official MV Credits: Director : YongSeok Choi (Lumpens) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/CLeZyIID9Bo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/CLeZyIID9Bo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/CLeZyIID9Bo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Settle",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-08-12T11:30:07Z"
+                "publishTime": "2019-04-12T09:00:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "z0woae2fgzCzua6WDsBwxKGtV1A",
+            "etag": "Zj2BrWyP6UwWQZAFe4sNTDRHGCA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "CfPxlb8-ZQ0"
+                "videoId": "WMweEpGlu_U"
             },
             "snippet": {
-                "publishedAt": "2020-08-08T16:36:44Z",
-                "channelId": "UCQtJT-hZA3FDTDHnQt9Qqsg",
-                "title": "Work &amp; Study Lofi Jazz - Relaxing Smooth Background Jazz Music for Work, Study, Focus, Coding",
-                "description": "Feel free to listen, share, and stream on your favorite places! Please subscribe to our channel and enjoy the latest release: ...",
+                "publishedAt": "2021-05-21T03:46:13Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;Butter&#39; Official MV",
+                "description": "BTS (방탄소년단) 'Butter' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: Jihye Yoon (Lumpens) 2nd AD: Ran ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/CfPxlb8-ZQ0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/WMweEpGlu_U/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/CfPxlb8-ZQ0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WMweEpGlu_U/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/CfPxlb8-ZQ0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Musictag",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2020-08-08T16:36:44Z"
+                "publishTime": "2021-05-21T03:46:13Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "oqMsd5jlYKSGEnZCxLQrvxmVoLc",
+            "etag": "DTErcwlBEMgNcKy-le73vyX5ELU",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "VsTY-kyp2Js"
+                "videoId": "e81ad5MpfQ0"
             },
             "snippet": {
-                "publishedAt": "2023-05-06T13:00:06Z",
-                "channelId": "UClsnuljhoSdHCeAIoOFiF5w",
-                "title": "✪ ＴＯＫＹＯ ✪  (Rainy Lofi Hip Hop)",
-                "description": "my name is xiu, i am living in hong kong and it's holiday today! should i stay under my blanket ? go out with my friends ? i don't ...",
+                "publishedAt": "2020-10-22T10:00:06Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "BTS (방탄소년단) &#39;Dynamite&#39; @ America&#39;s Got Talent 2020",
+                "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/VsTY-kyp2Js/default.jpg",
+                        "url": "https://i.ytimg.com/vi/e81ad5MpfQ0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/VsTY-kyp2Js/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/e81ad5MpfQ0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/VsTY-kyp2Js/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/e81ad5MpfQ0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "R͏ A͏ I͏ N͏",
+                "channelTitle": "BANGTANTV",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-05-06T13:00:06Z"
+                "publishTime": "2020-10-22T10:00:06Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "fiB4z1e75Na1pLD_cPhyI9BhrdI",
+            "etag": "w1dZ933RssQJtzh9wbWN39O8dsg",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "TaINndH-bZ0"
+                "videoId": "UaywgAqcLxI"
             },
             "snippet": {
-                "publishedAt": "2023-02-26T13:13:56Z",
-                "channelId": "UCj813_Apfg_zdQa63InKZAg",
-                "title": "Ｃｈｉｌｌ Ｍｏｒｎｉｎｇ 🌞 lofi music | Chill Music ~ lofi beats to chill / relax to",
-                "description": "Ｃｈｉｌｌ Ｍｏｒｎｉｎｇ lofi music | Chill Music ~ lofi beats to chill / relax to Ｃｈｉｌｌ Ｍｏｒｎｉｎｇ lofi music | Chill ...",
+                "publishedAt": "2023-03-17T03:59:11Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "지민 (Jimin) &#39;Set Me Free Pt.2&#39; Official MV",
+                "description": "지민 (Jimin) 'Set Me Free Pt.2' Official MV 'FACE' Release 3/24 1PM KST | 0AM ET Pre-order & pre-save 'FACE': ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/TaINndH-bZ0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/UaywgAqcLxI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/TaINndH-bZ0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/UaywgAqcLxI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/TaINndH-bZ0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/UaywgAqcLxI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Mr. Chill Lofi",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-02-26T13:13:56Z"
+                "publishTime": "2023-03-17T03:59:11Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "TlVx0qE8L8572LiCBBAC0-uOn9U",
+            "etag": "pU268jW86kuHPDjoQptRcy6F8rQ",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "dGlO7Bhv9ak"
+                "videoId": "Y8yWFoyXzyw"
             },
             "snippet": {
-                "publishedAt": "2023-04-26T15:00:50Z",
-                "channelId": "UCsxTsDvh-xQnShEtN1M64zQ",
-                "title": "Lofi Summer Vibes 🌴 Deep Focus Study/Work Concentration [chill lo-fi hip hop beats]",
-                "description": "Lofi Summer Vibes Deep Focus Study/Work Concentration [chill lo-fi hip hop beats] #Lofi #Vibes #Summer #DeepFocus ...",
+                "publishedAt": "2023-06-09T09:00:08Z",
+                "channelId": "UC222ggULI1uxDcbs0GQhqWw",
+                "title": "BTS PLAYLIST 2023 UPDATED | 방탄소년단 노래 모음",
+                "description": "BTS PLAYLIST 2023 #BTS #방탄소년단.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/dGlO7Bhv9ak/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Y8yWFoyXzyw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/dGlO7Bhv9ak/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Y8yWFoyXzyw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/dGlO7Bhv9ak/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Y8yWFoyXzyw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "𝗖𝗛𝗜𝗟𝗟 𝗩𝗜𝗟𝗟𝗔𝗚𝗘",
+                "channelTitle": "해질녘",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-04-26T15:00:50Z"
+                "publishTime": "2023-06-09T09:00:08Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "obHFpovmDE6x_r_2-W8fDYNt0zo",
+            "etag": "WzZeCPATjxofeweFMnm_vG6qpVs",
             "id": {
-                "kind": "youtube#video",
-                "videoId": "n61ULEU7CO0"
+                "kind": "youtube#channel",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ"
             },
             "snippet": {
-                "publishedAt": "2021-12-31T16:30:13Z",
-                "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
-                "title": "Best of lofi hip hop 2021 ✨ - beats to relax/study to",
-                "description": "The new Lofi Girl compilation “Best of 2021” is out now This compilation contains a track cherry-picked from every release on ...",
+                "publishedAt": "2012-12-17T03:20:38Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "BANGTANTV",
+                "description": "This is the official YouTube channel of BTS. 방탄소년단 공식 유튜브 채널 입니다.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/n61ULEU7CO0/default.jpg",
-                        "width": 120,
-                        "height": 90
+                        "url": "https://yt3.ggpht.com/P1qDc4cfm_An4Ub3LS3ZSq7bmu8NLlLMqJFu4YarQoD0AbJ9qmzL-dQHDgTHzF_GS2szG-T_Jg=s88-c-k-c0xffffffff-no-rj-mo"
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/n61ULEU7CO0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
+                        "url": "https://yt3.ggpht.com/P1qDc4cfm_An4Ub3LS3ZSq7bmu8NLlLMqJFu4YarQoD0AbJ9qmzL-dQHDgTHzF_GS2szG-T_Jg=s240-c-k-c0xffffffff-no-rj-mo"
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/n61ULEU7CO0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
+                        "url": "https://yt3.ggpht.com/P1qDc4cfm_An4Ub3LS3ZSq7bmu8NLlLMqJFu4YarQoD0AbJ9qmzL-dQHDgTHzF_GS2szG-T_Jg=s800-c-k-c0xffffffff-no-rj-mo"
                     }
                 },
-                "channelTitle": "Lofi Girl",
+                "channelTitle": "BANGTANTV",
                 "liveBroadcastContent": "none",
-                "publishTime": "2021-12-31T16:30:13Z"
+                "publishTime": "2012-12-17T03:20:38Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "j38AqQAuavgkI-RiAiROiKRursY",
+            "etag": "3IRt5cBh3JWYQdmvl1Am6vOusiA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "3C_KO2Fmqes"
+                "videoId": "lwAHfOhOONw"
             },
             "snippet": {
-                "publishedAt": "2023-03-13T09:17:48Z",
-                "channelId": "UCAJWS2uGiiWWl9BOpKfzn9g",
-                "title": "Lofi cat • lofi ambient music | chill beats to relax/study to",
-                "description": "Lofi Hip Hop is the best for study / chill music   If you are new to the channel, I'm happy you clicked on my video! Hopefully, this ...",
+                "publishedAt": "2023-06-09T04:00:31Z",
+                "channelId": "UC9vrvNSL3xcWGSkV86REBSg",
+                "title": "Take Two",
+                "description": "Provided to YouTube by 'BIGHIT MUSIC' Take Two · BTS (방탄소년단) Take Two Released on: 2023-06-09 Auto-generated by ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/3C_KO2Fmqes/default.jpg",
+                        "url": "https://i.ytimg.com/vi/lwAHfOhOONw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/3C_KO2Fmqes/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lwAHfOhOONw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/3C_KO2Fmqes/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/lwAHfOhOONw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "HITO",
+                "channelTitle": "BTS - Topic",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-03-13T09:17:48Z"
+                "publishTime": "2023-06-09T04:00:31Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "hnCX5OBRMrhNKm6SnbyTk_jxMMQ",
+            "etag": "izA2QaHjJji-Qg0UJiwpab_tMzI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "BrnDlRmW5hs"
+                "videoId": "kTlv5_Bs8aw"
             },
             "snippet": {
-                "publishedAt": "2020-07-18T20:25:39Z",
-                "channelId": "UCaziV_mlABegRYAK1RGNfEQ",
-                "title": "old songs but it&#39;s lofi remix",
-                "description": "Follow us on Spotify: https://sptfy.com/9tWx Follow us on Apple Music: ...",
+                "publishedAt": "2017-11-24T09:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;MIC Drop (Steve Aoki Remix)&#39; Official MV",
+                "description": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV Credits: Music Video by GDW, Directed by Woogie Kim Producer: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/BrnDlRmW5hs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/BrnDlRmW5hs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/BrnDlRmW5hs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Lo-fi Music",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2020-07-18T20:25:39Z"
+                "publishTime": "2017-11-24T09:00:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "7CsTsvMkcV7oVox0c73YS-APMPA",
+            "etag": "KNZj0NCmwNGQl_OkowmTmnoT9ew",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "lTRiuFIWV54"
+                "videoId": "-5q5mZbe3V8"
             },
             "snippet": {
-                "publishedAt": "2019-12-08T22:02:06Z",
-                "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
-                "title": "1 A.M Study Session 📚 - [lofi hip hop/chill beats]",
-                "description": "Create your lofi avatar now → https://bit.ly/lofigirl-generator | Listen on Spotify, Apple music and more ...",
+                "publishedAt": "2020-11-20T04:58:11Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;Life Goes On&#39; Official MV",
+                "description": "BTS (방탄소년단) 'Life Goes On' Official MV Credits: Director: Jeon Jung Kook Assistant Director: Yong Seok Choi, Jihye Yoon ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/lTRiuFIWV54/default.jpg",
+                        "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/lTRiuFIWV54/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/lTRiuFIWV54/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Lofi Girl",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-12-08T22:02:06Z"
+                "publishTime": "2020-11-20T04:58:11Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "05SDjOAe-JCcjIDPAuc3rfwDcm8",
+            "etag": "MrPYTSwv6YVc0BrXwnSAW7UG_Nw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "wGdodz6ck7g"
+                "videoId": "CuklIb9d3fI"
             },
             "snippet": {
-                "publishedAt": "2022-11-07T13:00:07Z",
-                "channelId": "UCqX2Rl-aRnLhcMm-vWcPo8A",
-                "title": "Lofi Study Vibes ❤️ Lofi Hip Hop &amp; Chillhop Mix ~ Study Music, Relaxing Music",
-                "description": "Lofi Study Vibes ❤️ Lofi Hip Hop & Chillhop Mix ~ Study Music, Relaxing Music https://youtu.be/wGdodz6ck7g Lofi Study Vibes ...",
+                "publishedAt": "2021-07-09T03:59:12Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;Permission to Dance&#39; Official MV",
+                "description": "BTS (방탄소년단) 'Permission to Dance' Official MV Credits: Director: Yong Seok Choi (Lumpens) & Woogie Kim (MOTHER) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/wGdodz6ck7g/default.jpg",
+                        "url": "https://i.ytimg.com/vi/CuklIb9d3fI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/wGdodz6ck7g/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CuklIb9d3fI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/wGdodz6ck7g/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/CuklIb9d3fI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Bears Chillhop",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-11-07T13:00:07Z"
+                "publishTime": "2021-07-09T03:59:12Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "2kxieXDLz8BxFXtm4IACnAQ89Uo",
+            "etag": "4C6YZGg7Nvqap5-M3hI4KVU8p9o",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "TlWYgGyNnJo"
+                "videoId": "-h37iI980PM"
             },
             "snippet": {
-                "publishedAt": "2023-04-26T16:00:11Z",
-                "channelId": "UCSJ4gkVC6NrvII8umztf0Ow",
-                "title": "1 A.M Chill Session 🌌 - [synthwave/chillwave]",
-                "description": "Get this compilation on vinyl ! (limited edition): → https://bit.ly/3mdNLUU | Listen everywhere ...",
+                "publishedAt": "2023-07-14T13:30:30Z",
+                "channelId": "UCH1oRy1dINbMVp3UFWrKP0w",
+                "title": "Jung Kook from BTS performs ‘Dynamite’ l GMA",
+                "description": "Jung Kook of global music phenom BTS performs “Dynamite,” the hit single that debuted at No. 1 on the Billboard Hot 100, during ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/TlWYgGyNnJo/default.jpg",
+                        "url": "https://i.ytimg.com/vi/-h37iI980PM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/TlWYgGyNnJo/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-h37iI980PM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/TlWYgGyNnJo/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/-h37iI980PM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Lofi Girl",
+                "channelTitle": "Good Morning America",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-04-26T16:00:11Z"
+                "publishTime": "2023-07-14T13:30:30Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "IUEkTNXLhg940whVnxYpz6lZUdk",
+            "etag": "oJByxgseAFNNBbmQk_imCPjDY1I",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "c3suauAz0zQ"
+                "videoId": "GZjt_sA2eso"
             },
             "snippet": {
-                "publishedAt": "2023-04-23T09:50:43Z",
-                "channelId": "UCKpA7cdEo6CL-Jcqhso2ZaQ",
-                "title": "nordic home office ~ chill lofi beats",
-                "description": "I tried something different with this one, using my previously made beats and putting some of my favorites into one video.",
+                "publishedAt": "2016-05-15T13:00:03Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;Save ME&#39; Official MV",
+                "description": "BTS (방탄소년단) 'Save ME' Official MV.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/c3suauAz0zQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/GZjt_sA2eso/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/c3suauAz0zQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GZjt_sA2eso/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/c3suauAz0zQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GZjt_sA2eso/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Cozy Nordic",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-04-23T09:50:43Z"
+                "publishTime": "2016-05-15T13:00:03Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "vvDik6H845Y8V6WkesQlhCvW_rw",
+            "etag": "AT_9jfvXO5IwVMxHfythOUAzq7A",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "hZKI7_OEh4U"
+                "videoId": "nOI67IDlNMQ"
             },
             "snippet": {
-                "publishedAt": "2023-07-06T09:05:59Z",
-                "channelId": "UCDFm-w2mWNAPy6sqAPcKnkQ",
-                "title": "Chill Vibes 🍀 Stop Overthinking 💖 Lofi hip hop mix ~ Calm Down And Relax",
-                "description": "Chill Vibes Stop Overthinking Lofi hip hop mix ~ Calm Down And Relax https://youtu.be/hZKI7_OEh4U ...",
+                "publishedAt": "2023-03-24T03:59:08Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "지민 (Jimin) &#39;Like Crazy&#39; Official MV",
+                "description": "지민 (Jimin) 'Like Crazy' Official MV 'FACE' Release 3/24 1PM KST | 0AM ET Listen to 'FACE': https://ingrv.es/face Credits: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/hZKI7_OEh4U/default_live.jpg",
+                        "url": "https://i.ytimg.com/vi/nOI67IDlNMQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/hZKI7_OEh4U/mqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/nOI67IDlNMQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/hZKI7_OEh4U/hqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/nOI67IDlNMQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "RELAXATION (LoFi & CHILL)",
-                "liveBroadcastContent": "live",
-                "publishTime": "2023-07-06T09:05:59Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "wVkoSXzD5ewUWcc-jrZPzV_Z1KA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "9Pz5pxT9ipk"
-            },
-            "snippet": {
-                "publishedAt": "2023-03-25T03:00:06Z",
-                "channelId": "UCTstPjloIIfiKYeAyEJ8QPg",
-                "title": "Gió (Lofi ver.) - JANK | Gió Mang Hương Về Giờ em Ở Đâu...| Những Bản Lofi Việt Nhẹ Nhàng Gây Nghiện",
-                "description": "Gió (Lofi ver.) - JANK | Gió Mang Hương Về Giờ em Ở Đâu...| Những Bản Lofi Việt Nhẹ Nhàng Gây Nghiện Gió (Lofi ver.) - JANK ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9Pz5pxT9ipk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9Pz5pxT9ipk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9Pz5pxT9ipk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "V/A Music Vietnam",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-03-25T03:00:06Z"
+                "publishTime": "2023-03-24T03:59:08Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "cjfMnkoKm67dhz_1INLnRv3xuj8",
+            "etag": "mEP12aCff8V-snYDyTpMBRe76ew",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "krDvbDoFUtg"
+                "videoId": "gwMa6gpoE9I"
             },
             "snippet": {
-                "publishedAt": "2023-07-05T09:04:35Z",
-                "channelId": "UCDFm-w2mWNAPy6sqAPcKnkQ",
-                "title": "Chill your mind 💖 Music to put you in a better mood ~ lofi / relax / stress relief",
-                "description": "Chill your mind Music to put you in a better mood ~ lofi / relax / stress relief https://youtube.com/live/krDvbDoFUtg ...",
+                "publishedAt": "2020-02-21T08:59:13Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;ON&#39; Kinetic Manifesto Film : Come Prima",
+                "description": "BTS (방탄소년단) 'ON' Kinetic Manifesto Film : Come Prima Credits: Director : YongSeok Choi (Lumpens) Executive Producer ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/krDvbDoFUtg/default_live.jpg",
+                        "url": "https://i.ytimg.com/vi/gwMa6gpoE9I/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/krDvbDoFUtg/mqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/gwMa6gpoE9I/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/krDvbDoFUtg/hqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/gwMa6gpoE9I/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "RELAXATION (LoFi & CHILL)",
-                "liveBroadcastContent": "live",
-                "publishTime": "2023-07-05T09:04:35Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Az-xGmxIKkatPQnX_gIPz81OEX4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "iicfmXFALM8"
-            },
-            "snippet": {
-                "publishedAt": "2022-03-05T14:00:11Z",
-                "channelId": "UCS4iXNXsvlOHm7TuXLltreg",
-                "title": "Chill Drive - Aesthetic Music ~ Lofi hip hop mix",
-                "description": "Music provided by Chill Beats Records: https://spoti.fi/3CDd8Cq | Stream it: https://listen.chillbeats.com/chillbeatsmusic | Lofi ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/iicfmXFALM8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/iicfmXFALM8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/iicfmXFALM8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "chilli music",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-03-05T14:00:11Z"
+                "publishTime": "2020-02-21T08:59:13Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Awc4tIJGeVl6c-oQ6FTftlnuYEM",
+            "etag": "C09lHL3RXCTFCqrHoBJhLQOUYyc",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "TU1kMs0qLP8"
+                "videoId": "7C2z4GqqS5E"
             },
             "snippet": {
-                "publishedAt": "2023-02-26T14:00:09Z",
-                "channelId": "UCKc5D_o4etjuQwgUZ9eKCLQ",
-                "title": "Morning Vibes 🍀 Positive Feelings and Energy 🍀 Chill lofi songs for a positive day ~ Lofi Hiphop Mix",
-                "description": "loficat #lofihiphop #lofi Morning Vibes Positive Feelings and Energy Chill lofi songs for a positive day ~ Lofi Hiphop Mix ...",
+                "publishedAt": "2018-05-18T09:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;FAKE LOVE&#39; Official MV",
+                "description": "BTS (방탄소년단) 'FAKE LOVE' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee, Guzza, ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/TU1kMs0qLP8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/TU1kMs0qLP8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/TU1kMs0qLP8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Lofi Cat",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-02-26T14:00:09Z"
+                "publishTime": "2018-05-18T09:00:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "VbaL-RPaJLXkBPS73erYrEJGYUw",
+            "etag": "UMtr_eONBIbthoAgdeEVkUm96Zs",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "S_bON2ei8iA"
+                "videoId": "hmE9f-TEutc"
             },
             "snippet": {
-                "publishedAt": "2023-01-27T11:01:12Z",
-                "channelId": "UCkKT4qf-TcPFOmpqhTawrGA",
-                "title": "Chill Lofi Music [chill lo-fi hip hop beats]",
-                "description": "YouTube Playlists: http://listen.settle.fm/youtube Listen on Spotify, Apple Music & more https://listen.settle.fm/playlists ...",
+                "publishedAt": "2016-10-09T15:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;피 땀 눈물 (Blood Sweat &amp; Tears)&#39; Official MV",
+                "description": "BTS (방탄소년단) '피 땀 눈물 (Blood Sweat & Tears)' Official MV Music video credits: Director: YongSeok Choi (Lumpens) ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/S_bON2ei8iA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/hmE9f-TEutc/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/S_bON2ei8iA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/hmE9f-TEutc/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/S_bON2ei8iA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/hmE9f-TEutc/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Settle",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-01-27T11:01:12Z"
+                "publishTime": "2016-10-09T15:00:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "tV2osIyKByCnxYrlGob7pN0XfrY",
+            "etag": "8E4tcuuF0Jbnbpx28yHfQGm0KFs",
             "id": {
-                "kind": "youtube#video",
-                "videoId": "guan9sTiXM0"
+                "kind": "youtube#channel",
+                "channelId": "UC9vrvNSL3xcWGSkV86REBSg"
             },
             "snippet": {
-                "publishedAt": "2023-04-06T15:00:23Z",
-                "channelId": "UCsxTsDvh-xQnShEtN1M64zQ",
-                "title": "Work Offfice Lofi 💳 Deep Focus - Concentration [chill lo-fi hip hop beats]",
-                "description": "Work Offfice Lofi Deep Focus - Concentration [chill lo-fi hip hop beats] #Lofi #Sea #Vibes #RelaxYourMind #Caribbean #Study ...",
+                "publishedAt": "2013-12-23T20:47:31Z",
+                "channelId": "UC9vrvNSL3xcWGSkV86REBSg",
+                "title": "BTS - Topic",
+                "description": "BTS is a Grammy-nominated South Korean group that has been capturing the hearts of millions of fans globally since its debut in ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/guan9sTiXM0/default.jpg",
+                        "url": "https://yt3.ggpht.com/NUWN0KrSPpPqkkgpFeajit3Gjqf1tpMhy2v0X_wIkwBmhyMO-_-PHAIvDQXyYoJ2tL6f_AwPuw=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/NUWN0KrSPpPqkkgpFeajit3Gjqf1tpMhy2v0X_wIkwBmhyMO-_-PHAIvDQXyYoJ2tL6f_AwPuw=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/NUWN0KrSPpPqkkgpFeajit3Gjqf1tpMhy2v0X_wIkwBmhyMO-_-PHAIvDQXyYoJ2tL6f_AwPuw=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "BTS - Topic",
+                "liveBroadcastContent": "upcoming",
+                "publishTime": "2013-12-23T20:47:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sFGvt0g2J-c9y2H4wc4NgOA_3tg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MBdVXkSdhwU"
+            },
+            "snippet": {
+                "publishedAt": "2017-09-18T09:00:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;DNA&#39; Official MV",
+                "description": "BTS (방탄소년단) 'DNA' Official MV Credits: Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee (Lumpens) ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/guan9sTiXM0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/guan9sTiXM0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "𝗖𝗛𝗜𝗟𝗟 𝗩𝗜𝗟𝗟𝗔𝗚𝗘",
+                "channelTitle": "HYBE LABELS",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-04-06T15:00:23Z"
+                "publishTime": "2017-09-18T09:00:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "-Xo7778QsvGFjlslyKM3mc8uUQM",
+            "etag": "U2z5v_8Fc6c_Tf9s8x0iVfJ9_Ck",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "2YKkTZT25os"
+                "videoId": "pBuZEGYXA6E"
             },
             "snippet": {
-                "publishedAt": "2023-07-08T04:21:21Z",
-                "channelId": "UCDFm-w2mWNAPy6sqAPcKnkQ",
-                "title": "Chill Day 💖 Chill Lofi Mix [chill lo-fi hip hop beats] ~ Music to put you in a better mood",
-                "description": "Chill Day Chill Lofi Mix [chill lo-fi hip hop beats] ~ Music to put you in a better mood https://youtu.be/2YKkTZT25os ...",
+                "publishedAt": "2018-08-24T09:00:03Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BTS (방탄소년단) &#39;IDOL&#39; Official MV",
+                "description": "BTS (방탄소년단) 'IDOL' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : Guzza, MinJe Jeong, HyeJeong Park ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/2YKkTZT25os/default_live.jpg",
+                        "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/2YKkTZT25os/mqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/2YKkTZT25os/hqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "RELAXATION (LoFi & CHILL)",
-                "liveBroadcastContent": "live",
-                "publishTime": "2023-07-08T04:21:21Z"
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-08-24T09:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vnVuDkTZubyQejlbBb8F272NKHI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "x6mc_rRwD3A"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-14T14:03:44Z",
+                "channelId": "UCH1oRy1dINbMVp3UFWrKP0w",
+                "title": "Jung Kook of BTS performs ‘Seven’ in NYC l GMA",
+                "description": "The global pop star performs his new hit “Seven” during the “GMA” Summer Concert Series from New York City's Central Park.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x6mc_rRwD3A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x6mc_rRwD3A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x6mc_rRwD3A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Good Morning America",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-14T14:03:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OSP5K3CSRI7SItnTx9SIBwB-g-4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G7Nofu79Zfk"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-14T05:15:27Z",
+                "channelId": "UCgQ8olRhkepJWlVF9IVmPGQ",
+                "title": "BTS成員Jung kook 的新solo單曲〈Seven〉本日上架💜",
+                "description": "現在就去收聽   http://ingrv.es/Seven #BTS #Jungkook #Jungkook_SEVEN.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G7Nofu79Zfk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G7Nofu79Zfk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G7Nofu79Zfk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UNIVERSAL MUSIC TAIWAN 環球音樂",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-14T05:15:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y5ifF1u2nFRe4upeDSvInHNhMyY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "a0JX16JNm24"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-14T13:26:34Z",
+                "channelId": "UCH1oRy1dINbMVp3UFWrKP0w",
+                "title": "Jung Kook of BTS performs ‘Euphoria’ l GMA",
+                "description": "The global pop star performs his hit song “Euphoria” from BTS' 2018 album, “Love Yourself,” at the “Good Morning America” ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a0JX16JNm24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a0JX16JNm24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a0JX16JNm24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Good Morning America",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-14T13:26:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "oVYJvLQ_BmYDjTlvAWR1TMQSeUk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "R-HbWtffN9I"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-15T15:22:02Z",
+                "channelId": "UCovj9nsR7XJyC8RvtvSbWbA",
+                "title": "Kpop Songs that Didn’t Deserve the Hype…#shorts#bts#blackpink#gidle#kpop#kpopidol#fyp#fypシ",
+                "description": "bts #shorts #fyp #fypシ #btsedits #btsshorts #btstiktok #btsarmy #fypage #youtubeshorts #shortsyoutube #fyptiktok #fyp #jimin ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R-HbWtffN9I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R-HbWtffN9I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R-HbWtffN9I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Bts forever",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-15T15:22:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NQyyZ05nSheHLhXUNpIW5hV-q4s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mzvspmbcB8s"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-19T04:00:10Z",
+                "channelId": "UCT0iBL3ZS4WQDtiDs_UDdhA",
+                "title": "BTS PLAYLIST SUMMER 2023",
+                "description": "Bienvenidos a todos a mi canal! Aquí estaré subiendo videos de distintos grupos de Kpop, esta vez subí distintas canciones de ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mzvspmbcB8s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mzvspmbcB8s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mzvspmbcB8s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Minjo's",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-19T04:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YyVFqic6YopPcAhgkNomgSrpUwo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1GRXx_n4nok"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-21T07:57:41Z",
+                "channelId": "UCITp9M16Skrha_BkIdKTE9w",
+                "title": "BTS Playlist - Best BTS Songs 2013-2020 ~ 방탄소년단",
+                "description": "BTS Playlist - Best BTS Songs (for studying, relaxing and sleeping) #방탄소년단 #BTSplaylist #Bestsong #relaxing Subscribe: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1GRXx_n4nok/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1GRXx_n4nok/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1GRXx_n4nok/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GREY Nation",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-21T07:57:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V5fpVO9SYclHuQcOwkLRfki3ND8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p5xNZXol0aM"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-24T21:30:03Z",
+                "channelId": "UCnKhD_ILENst10ejEBjofEA",
+                "title": "B T S PLAYLIST 2023 UPDATED | BTS Best Song Of 2023 | 방탄소년단 노래 모음 | 방탄 신나는 노래 모음 광고없음",
+                "description": "B T S PLAYLIST 2023 UPDATED | BTS Best Song Of 2023 | 방탄소년단 노래 모음 | 방탄 신나는 노래 모음 광고없음 B T S ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p5xNZXol0aM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p5xNZXol0aM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p5xNZXol0aM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Kpop_HY",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-24T21:30:03Z"
             }
         }
     ]
