@@ -2,20 +2,12 @@ import React, { useEffect } from 'react';
 import Video from './Video';
 import { useQuery } from '@tanstack/react-query'
 import { useParams } from 'react-router-dom';
-import axios from 'axios';
-const key = process.env.REACT_APP_YOUTUBE;
+import { search } from '../api/youtube';
 
 export default function Videos() {
     const { keyword } = useParams();
-    console.log(keyword)
-    const { isLoading, error, data: videos } = useQuery(["videos", keyword], async () => {
-
-        const basicUrl = `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&regionCode=KR&`
-        const searchUrl = `${basicUrl}q=${keyword ? keyword : ""}&key=${key}`
-
-        return axios.get('/data/search.json')
-            .then(res => res.data.items)
-    });
+    const { isLoading, error, data: videos
+    } = useQuery(["videos", keyword], () => search(keyword));
 
 
     // /repeat(auto-fill, minmax(280px, 1fr))
