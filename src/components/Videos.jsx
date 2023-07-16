@@ -2,6 +2,7 @@ import React, { useEffect } from 'react';
 import Video from './Video';
 import { useQuery } from '@tanstack/react-query'
 import { useParams } from 'react-router-dom';
+import axios from 'axios';
 const key = process.env.REACT_APP_YOUTUBE;
 
 export default function Videos() {
@@ -12,8 +13,8 @@ export default function Videos() {
         const basicUrl = `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=30&regionCode=KR&`
         const searchUrl = `${basicUrl}q=${keyword ? keyword : ""}&key=${key}`
 
-        return fetch('/data/search.json')
-            .then(res => res.json())
+        return axios.get('/data/search.json')
+            .then(res => res.data.items)
     });
 
 
@@ -22,15 +23,15 @@ export default function Videos() {
         <div className="grid grid-cols-5">
             {error && <p>Something is wrong</p>}
             {isLoading ? <span>Loading...</span> :
-                videos && videos.items.map((i, ind) => {
+                videos && videos.map((video) => {
                     return (<Video
-                        key={ind}
-                        videoId={i.id.videoId}
-                        title={i.snippet.title}
-                        channel={i.snippet.channelTitle}
-                        description={i.snippet.description}
-                        date={i.snippet.publishedAt}
-                        thumnail={i.snippet.thumbnails.medium.url}
+                        key={video.id}
+                        videoId={video.id.videoId}
+                        title={video.snippet.title}
+                        channel={video.snippet.channelTitle}
+                        description={video.snippet.description}
+                        date={video.snippet.publishedAt}
+                        thumnail={video.snippet.thumbnails.medium.url}
                     />)
                 })}
             {error && <span>{error}</span>}
